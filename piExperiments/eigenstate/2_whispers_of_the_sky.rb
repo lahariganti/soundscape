@@ -1,4 +1,5 @@
 # Whispers of the Sky
+
 use_bpm 50
 use_synth :rodeo
 
