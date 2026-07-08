@@ -1,4 +1,1 @@
-# ArtOrWhat
-art and music with code, yeah
-
-- https://soundcloud.com/lahari-ganti
+https://soundcloud.com/lahari-ganti
