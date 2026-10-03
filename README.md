@@ -1,1 +1,2 @@
-https://soundcloud.com/lahari-ganti
+- https://soundcloud.com/lahari-ganti
+- https://rarebit.lol
